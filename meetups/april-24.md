@@ -1,11 +1,12 @@
 ---
 title: 5th April 2024
+subtitle: Presentation by Elowyn Fearne
 archived: true
 ---
 
 17.30 – 19.30
 
- April's meetup will include a presentation by Elowyn Fearne, a creative coder doing research on musical interfraces and programming in C++.
+April's meetup will include a presentation by Elowyn Fearne, a creative coder doing research on musical interfraces and programming in C++.
 
 Fearne will present her current MA project, a three dimensional 'visual sound broswer'. 
 
