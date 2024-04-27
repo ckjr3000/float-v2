@@ -1,12 +1,4 @@
-header > .header-top {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 25px;
-    flex-direction: row;
-}
-
-header > .header-top {
+header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -15,4 +7,18 @@ header > .header-top {
     text-decoration: none;
     padding: 15px 30px;
     border-bottom: 1px solid var(--white);
+}
+
+@media only screen and (max-width: 350px) {
+    header {
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 10px;
+    }
+}
+
+@media only screen and (max-width: 175px) {
+    header > .nav-links {
+        text-align: center;
+    }
 }
