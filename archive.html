@@ -1,13 +1,16 @@
 ---
-title: archive
+title: Archive
 layout: layout.html
 ---
 
-<h2>Archive</h2>
 <h3>Past Meetups: </h3>
 <ul>
     {% assign archivedMeetups = collections.meetup | where: "data.archived", true %}
     {% for meetup in archivedMeetups %}
-        <li><a href="{{ meetup.url }}">{{ meetup.data.title }}</a></li>
+        <li>
+            <h4 href="{{ meetup.url }}">{{ meetup.data.title }}</h4>
+            <p>{{ meetup.data.subheading }}</p>
+            <a href="{{ meetup.url }}">Read more</a>
+        </li>
     {% endfor %}
 </ul>

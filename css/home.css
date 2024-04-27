@@ -1,0 +1,25 @@
+.intro-section {
+    margin: 0 300px;
+}
+
+.intro-section h2 {
+    text-align: center;
+}
+
+.homepage-areas-container {
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+    gap: 20px; 
+    margin: 30px 300px;
+}
+
+.homepage-area {
+    border: 1px solid var(--white);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.homepage-area h2 {
+    text-align: center;
+    color: var(--white);
+}

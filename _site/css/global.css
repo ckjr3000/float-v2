@@ -3,11 +3,11 @@
 
 /* Colour Palette */
 :root {
-    --black: #3a2e39;
+    --black: #2D252C;
     --white: #Fcfcfc;
-    --green: #0D824D;
+    --green: #0FD27A;
     --pink: #cd8987;
-    --blue: #155D74;
+    --blue: #86c6db;
   }
   
 * {
@@ -17,16 +17,19 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--white);
+  background-color: var(--black);
 }
 
-h1 > a, h2 {
+h1, h2 {
+    font-size: 25px;
+}
+
+h1, h2, h3, h4 {
     color: var(--green);
-    text-decoration: none;
 }
 
 p {
-    color: var(--black);
+    color: var(--white);
 }
 
 a {
