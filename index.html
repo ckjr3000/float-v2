@@ -1,28 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>float</title>
-    <link rel="stylesheet" href="/css/global.css">
-    <link rel="stylesheet" href="/css/header.css">
-    <link rel="stylesheet" href="/css/home.css">
-</head>
-<body>
-    <header>
-        <div class="header-top">
-            <a href="/"><img src="/assets/float_logo_transparent_bg.png" alt="float"></a>
-            <div class="nav-links">
-                <a href="/">HOME</a>
-                <a href="../archive">ARCHIVE</a>
-            </div>
-        </div>
-    </header>
-    <main>
-        <h2></h2>
-        
+---
+layout: "layout.html" 
+---
+
 <div class="intro-section">
-    <h2>Monthly Creative Technology Meetups in Huddersfield</h2>
+    <h2>Monthly Creative Technology Meet Ups in Huddersfield</h2>
     <p>
         FLOAT is an open collective for anyone who identifies as queer or as belonging to a marginalised gender interested in creative technology.
     </p>
@@ -30,7 +11,7 @@
         We meet on the <b>5th of every month, 17.30 - 19.30</b>, at various venues in <b>Huddersfield.</b>
     </p>
     <p>
-        Meetups usually include some kind of activity, e.g a presentation, skill share, small performance or themed discussion.
+        Meet ups usually include some kind of activity, e.g a presentation, skill share, small performance or themed discussion.
     </p>
     <p>
         We are always on the lookout for new members! Whether you're interested in creative coding, game development, digital art, or anything else under the 
@@ -38,30 +19,28 @@
     </p>
 </div>
 
-<div class="homepage-areas-container">
-    <div class="homepage-area">
-        <h2>Next Meetup: </h2>
-        
-            <h3>5th May 2024</h3>
+<div class="grid-container">
+    <div class="grid-child">
+        <h2>Next Meet Up </h2>
+        {% for meetup in collections.meetup limit:1 %}
+            <h3>{{ meetup.data.title }}</h3>
             <p>17.30 - 19.30</p>
-            <p>Venue: Online</p>
-            <p>Workshop - Make a gig poster with HTML</p>
-            <a href="/meetups/may-24/">Read more</a>
-        
+            <p><b>Venue:</b> {{ meetup.data.venue }}</p>
+            <p>{{ meetup.data.subtitle }}</p>
+            <a class="read-more-btn" href="{{ meetup.url }}">Read more</a>
+        {% endfor %}        
     </div>
-    <div class="homepage-area">
+    <div class="grid-child">
         <h2>Get Involved:</h2>
 
-        <h3>Want to present at a meetup?</h3>
-        <a href="#">Fill in this Google Form, we'll be in touch ↗</a>
+        <h3>Want to present at a meet up?</h3>
+        <p>Fill in the Google Form below, and we'll be in touch.</p>
+        <a href="#">Form ↗</a>
     </div>
-    <div class="homepage-area">
+    <div class="grid-child">
         <h2>All Other Queries:</h2>
         <p>Email Charlotte, hello@charlotteroe.space</p>
         <p>Message us on <a href="#">Instagram ↗</a></p>
         <p>Or join our <a href="#">Discord ↗</a></p>
     </div>
 </div>
-    </main>
-</body>
-</html>
