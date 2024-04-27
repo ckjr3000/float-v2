@@ -1,11 +1,12 @@
 ---
 layout: layout.html
 ---
+
 <p>
-    FLOAT id an open collective for anyone who identifies as queer or as belonging to a marginalised gender interested in creative technology.
+    FLOAT is an open collective for anyone who identifies as queer or as belonging to a marginalised gender interested in creative technology.
 </p>
 <p>
-    We meet on the 5th of every month, 17.30 - 19.30, at various venues in Huddersfield.
+    We meet on the <b>5th of every month, 17.30 - 19.30</b>, at various venues in <b>Huddersfield.</b>
 </p>
 <p>
     Meetups usually include some kind of activity, e.g a presentation, skill share, small performance or themed discussion.
@@ -14,8 +15,21 @@ layout: layout.html
     We are always on the lookout for new members! Whether you're interested in creative coding, game development, digital art, or anything else under the 
     banner of 'creative technology', please feel free to come along.
 </p>
+
 <h2>Next Meetup: </h2>
 
 {% for meetup in collections.meetup limit:1 %}
     <h3>{{ meetup.data.title }}</h3>
+    <p>{{ meetup.data.subtitle }}</p>
+    <a href="{{ meetup.url }}">Read more</a>
 {% endfor %}
+
+<h2>Get Involved</h2>
+
+<h3>Want to present at a meetup?</h3>
+<a href="#">Fill in this Google Form, we'll be in touch ↗</a>
+
+<h3>All Other Queries</h3>
+<p>Email Charlotte, hello@charlotteroe.space</p>
+<p>Message us on <a href="#">Instagram ↗</a></p>
+<p>Or join our <a href="#">Discord ↗</a></p>
