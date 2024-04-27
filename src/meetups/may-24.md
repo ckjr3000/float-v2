@@ -16,7 +16,7 @@ During the session, we'll work, step by step, through creating a web page to adv
 
 This is a very beginner friendly workshop, with no prior experience required.
 
-**NOTE**: This session will serve, in part, as research and development for a longer series of 'DIY Web Development' workshops, so people with experience coding are very much welcome to come along and provide input!
+**NOTE**: This session will serve, in part, as research and development for a longer series of 'DIY Web Development' workshops, so people experienced with coding are very much welcome to come along and provide input!
 
 ## Where?
 
