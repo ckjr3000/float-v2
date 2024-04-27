@@ -5,3 +5,27 @@
 .intro-section h2 {
     text-align: center;
 }
+
+@media only screen and (max-width: 1410px){
+    .intro-section {
+        margin: 0 200px;
+    }
+}
+
+@media only screen and (max-width: 916px){
+    .intro-section {
+        margin: 0 100px;
+    }
+}
+
+@media only screen and (max-width: 916px){
+    .intro-section {
+        margin: 0 30px;
+    }
+}
+
+@media only screen and (max-width: 296px){
+    .intro-section {
+        margin: 0 15px;
+    }
+}

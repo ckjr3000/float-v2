@@ -23,7 +23,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 18px; /* Height of the footer */
+  padding-bottom: calc(100vh - 95vh);
   background-color: var(--black);
 }
 
@@ -51,6 +51,31 @@ a {
 ul {
     list-style-type: none;
 }
+
+@media only screen and (max-width: 410px){
+    h1 {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 168px){
+    h2 {
+        font-size: 15px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+}
+
 
 .grid-container {
     display: grid; 
@@ -87,9 +112,90 @@ ul {
     background-color: var(--white);
 }
 
+@media only screen and (max-width: 1544px){
+    .grid-child {
+        padding: 10px 15px 15px 15px;
+    }
+}
+
+@media only screen and (max-width: 1544px){
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+
+    .grid-child {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 1050px) {
+    .grid-container {
+        margin: 0 200px;
+    }
+}
+
+@media only screen and (max-width: 822px) {
+    .grid-container {
+        margin: 0 100px;
+    }
+}
+
+@media only screen and (max-width: 822px) {
+    .grid-container {
+        margin: 0 30px;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .grid-container {
+        margin: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 260px) {
+    .grid-container {
+        margin: 5px;
+    }
+
+    .grid-child > * {
+        padding: 0px;
+    }
+
+    
+    .grid-child > .read-more-btn {
+        padding: 5px;
+    }
+}
+
 footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+@media only screen and (max-width: 669px) {
+    footer > p {
+        font-size: 13px;
+    }
+}
+
+/* Gives footer more space instead of making it smaller */
+@media only screen and (max-width: 669px) {
+    body {
+        padding-bottom: calc(100vh - 92vh);
+      }
+}
+
+@media only screen and (max-width: 203px) {
+    body {
+        padding-bottom: calc(100vh - 90vh);
+      }
+}
+
+@media only screen and (max-width: 150px) {
+    body {
+        padding-bottom: calc(100vh - 85vh);
+      }
 }
