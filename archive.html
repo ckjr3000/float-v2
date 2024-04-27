@@ -4,15 +4,15 @@ layout: layout.html
 ---
 
 <h2 id="archive-heading">Past Meetups</h2>
-<ul class="grid-container">
+<div class="grid-container">
     {% assign archivedMeetups = collections.meetup | where: "data.archived", true %}
     {% for meetup in archivedMeetups %}
-        <li class="grid-child">
+        <div class="grid-child">
             <h3>{{ meetup.data.title }}</h3>
             <p>17.30 - 19.30</p>
             <p><b>Venue:</b> {{ meetup.data.venue }}</p>
             <p>{{ meetup.data.subtitle }}</p>
             <a class="read-more-btn" href="{{ meetup.url }}">Read more</a>
-        </li>
+        </div>
     {% endfor %}
-</ul>
+    </div>
