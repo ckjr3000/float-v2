@@ -14,9 +14,16 @@
     font-family: 'Roboto Mono', serif;
 }
 
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
+  padding-bottom: 18px; /* Height of the footer */
   background-color: var(--black);
 }
 
@@ -78,4 +85,11 @@ ul {
 .read-more-btn:hover {
     color: var(--black);
     background-color: var(--white);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
