@@ -1,3 +1,21 @@
 .post-content {
     margin: 30px 300px;
 }
+
+@media only screen and (max-width: 1200px){
+    .post-content {
+        margin: 30px 200px;
+    }
+}
+
+@media only screen and (max-width: 910px){
+    .post-content {
+        margin: 30px 100px;
+    }
+}
+
+@media only screen and (max-width: 718px){
+    .post-content {
+        margin: 30px 30px;
+    }
+}

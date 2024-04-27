@@ -52,16 +52,35 @@ ul {
     list-style-type: none;
 }
 
-@media only screen and (max-width: 410px){
+@media only screen and (max-width: 537px){
     h1 {
         font-size: 25px;
     }
+}
+
+@media only screen and (max-width: 410px){
 
     h2 {
         font-size: 20px;
     }
 
     p {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 391px){
+    h1 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 307px){
+    h1 {
+        font-size: 15px;
+    }
+
+    h2 {
         font-size: 13px;
     }
 }
@@ -186,6 +205,10 @@ footer {
     body {
         padding-bottom: calc(100vh - 92vh);
       }
+
+      footer > p {
+        padding: 0 10px;
+    }
 }
 
 @media only screen and (max-width: 203px) {
