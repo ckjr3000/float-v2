@@ -1,6 +1,7 @@
 ---
 title: 5th April 2024
 subtitle: Presentation by Elowyn Fearne
+venue: Hive Cafe
 archived: true
 ---
 

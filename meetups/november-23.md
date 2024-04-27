@@ -1,6 +1,7 @@
 ---
 title: Thursday 2nd November 2023
 subtitle: Social & presentation by Freya Shaw
+venue: Dai Hall
 archived: true
 ---
 

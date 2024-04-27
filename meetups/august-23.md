@@ -1,6 +1,7 @@
 ---
 title: Thursday 3rd August 2023
 subtitle: Social & presentation by Mia Windsor
+venue: Dai Hall
 archived: true
 ---
 

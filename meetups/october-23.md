@@ -1,6 +1,7 @@
 ---
 title: Thursday 5th October 2023
 subtitle: Social & presentation by Charlotte Roe
+venue: Dai Hall
 archived: true
 ---
 
