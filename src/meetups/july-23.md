@@ -3,6 +3,7 @@ title: Thursday 6th July 2023
 subtitle: Social & presentation by Ryoko Akama
 venue: Dai Hall
 archived: true
+date: created
 ---
 
 17.30 – 19.30
@@ -11,7 +12,7 @@ The first monthly ‘FLOAT’ meetup people who identify as queer and/or as belo
 
 Free entry, hot and cold drinks provided, come meet other artists/creatives/technologists in a friendly, casual environment.
 
-This month’s meetup will include a presentation from sound artist, Huddersfield-based [Ryoko Akama](https://ryokoakama.com/) introducing her ongoing interest on heat and temperature. Ryoko has been examining on various methods to amplify the sound of water dripping onto hotplates to create rhythmic patterns. She will discuss her idea, demonstrate its process, and discuss achievement and issues.
+This month’s meetup will include a presentation from sound artist, Huddersfield-based [Ryoko Akama](https://ryokoakama.com/) introducing her ongoing interest on heat and temperature. Ryoko has been examining on various methods to amplify the sound of water dripping onto hotplates to create rhythmic patterns. She will discuss her idea, demonstrate its process, and discuss achievement and issues
 
 ## Where?
 

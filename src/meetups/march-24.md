@@ -3,11 +3,12 @@ title: Tuesday 5th March 2024
 subtitle: Open Meeting
 venue: Vortex Studios
 archived: true
+date: created
 ---
 
 17.30 – 19.30
 
-Free entry, drinks and snacks provided, come meet other artists/creatives/technologists in a friendly, casual environment.
+Free entry, drinks and snacks provided, come meet other artists/creatives/technologists in a friendly, casual environment
 
 March’s meetup will be an open meeting for anyone to discuss their current projects/thoughts/ideas.
 

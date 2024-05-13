@@ -2,7 +2,8 @@
 title: 5th May 2024
 subtitle: Workshop - Make a gig poster with HTML
 venue: Online
-archived: false
+archived: true
+date: created
 ---
 
 17.30 – 19.30 
@@ -20,7 +21,7 @@ This is a very beginner friendly workshop, with no prior experience required.
 
 ## Where?
 
-Online - Zoom
+Online - Zoom.
 
 Because this is an online meetup, advanced sign up is required.
 

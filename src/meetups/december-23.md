@@ -3,6 +3,7 @@ title: Tuesday 5th December 2023
 subtitle: Winter Process Private View
 venue: Dai Hall
 archived: true
+date: created
 ---
 
 17.30 – 19.30
@@ -11,7 +12,7 @@ December’s FLOAT meetup will coincide with the opening of [ame’s](https://am
 
 Come and experience the installations and meet the artists.
 
-There is also a free workshop, ‘Communal Sounds’, running afterwards by KP Culver. [Details and sign up](https://hubbub.amespace.uk/winterprocess/#workshops)
+There is also a free workshop, ‘Communal Sounds’, running afterwards by KP Culver. [Details and sign up](https://hubbub.amespace.uk/winterprocess/#workshops).
 
 ## Where?
 
