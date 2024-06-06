@@ -3,7 +3,7 @@ title: Wednesday 5th June 2024
 subtitle: Open Meeting
 venue: Hive Cafe
 archived: true
-date: created
+date: 2024-04-04
 ---
 
 17.30 – 19.30

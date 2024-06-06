@@ -3,7 +3,7 @@ title: Thursday 7th September 2023
 subtitle: Social & presentation by Joe Christman
 venue: Dai Hall
 archived: true
-date: created
+date: 2023-09-06
 ---
 
 17.30 – 19.30

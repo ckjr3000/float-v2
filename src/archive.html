@@ -5,7 +5,7 @@ layout: layout.html
 
 <h2 id="archive-heading">Past Meetups</h2>
 <div class="grid-container">
-    {% assign archivedMeetups = collections.meetup | where: "data.archived", true %}
+    {% assign archivedMeetups = collections.meetup | where: "data.archived", true | reverse %}
     {% for meetup in archivedMeetups sort(attribute='meetup.data.date') %}
         <div class="grid-child">
             <h3>{{ meetup.data.title }}</h3>

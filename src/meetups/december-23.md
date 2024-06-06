@@ -3,7 +3,7 @@ title: Tuesday 5th December 2023
 subtitle: Winter Process Private View
 venue: Dai Hall
 archived: true
-date: created
+date: 2023-12-01
 ---
 
 17.30 – 19.30

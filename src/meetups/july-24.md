@@ -3,7 +3,7 @@ title: Friday 5th July 2024
 subtitle: Open Meeting
 venue: Hive Cafe
 archived: false
-date: created
+date: 2024-07-04
 ---
 
 17.30 – 19.30

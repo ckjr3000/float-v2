@@ -3,7 +3,7 @@ title: Thursday 6th July 2023
 subtitle: Social & presentation by Ryoko Akama
 venue: Dai Hall
 archived: true
-date: created
+date: 2023-07-04
 ---
 
 17.30 – 19.30

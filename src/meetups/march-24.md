@@ -3,7 +3,7 @@ title: Tuesday 5th March 2024
 subtitle: Open Meeting
 venue: Vortex Studios
 archived: true
-date: created
+date: 2024-03-04
 ---
 
 17.30 – 19.30
