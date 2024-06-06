@@ -21,7 +21,7 @@ layout: "layout.html"
 
 <div class="grid-container">
     <div class="grid-child">
-        <h2>Next Meet Up </h2>
+        <h2>Next Meet Up</h2>
         {% assign reversedMeetups = collections.meetup | reverse %}
         {% for meetup in reversedMeetups limit:1 %}
             <h3>{{ meetup.data.title }}</h3>
@@ -43,6 +43,5 @@ layout: "layout.html"
         <h2>All Other Queries:</h2>
         <p>Email Charlotte, hello@charlotteroe.space</p>
         <p>Message us on <a href="#">Instagram ↗</a></p>
-        <!-- <p>Or join our <a href="#">Discord ↗</a></p> -->
     </div>
 </div>
