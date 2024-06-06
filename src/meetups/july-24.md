@@ -1,5 +1,5 @@
 ---
-title: Friday 5th June 2024
+title: Friday 5th July 2024
 subtitle: Open Meeting
 venue: Hive Cafe
 archived: false
