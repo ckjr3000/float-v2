@@ -8,7 +8,7 @@ date: 2024-07-04
 
 17.30 – 19.30
 
-July's meetup will be an open meeting for anyone to discuss their current projects, thoughts, and ideas.
+July's meetup will include a discuss with Sound Artist & Audio Engineer Jo Christman aorund their proposed post-grad research, exploring creative hierarchy and role management in the creative arts to develop a hybrid practice.
 
 
 ## Where?
