@@ -1,6 +1,6 @@
 ---
 title: Friday 5th July 2024
-subtitle: Open Meeting
+subtitle: Discussion with Jo Christman
 venue: Hive Cafe
 archived: false
 date: 2024-07-04
