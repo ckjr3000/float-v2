@@ -2,7 +2,7 @@
 title: Friday 5th July 2024
 subtitle: Discussion with Jo Christman
 venue: Hive Cafe
-archived: false
+archived: true
 date: 2024-07-04
 ---
 
