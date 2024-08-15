@@ -20,18 +20,18 @@
     }
 }
 
-img {
+img, video {
     max-width: 30vw;
 }
 
 @media only screen and (max-width: 960px){
-    img {
+    img, video {
         max-width: 40vw;
     }
 }
 
 @media only screen and (max-width: 540px){
-    img {
+    img, video {
         max-width: 60vw;
     }
 }

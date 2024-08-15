@@ -20,6 +20,10 @@ Doors 7pm
 
 ### Jo Christman
 
+<video controls>
+  <source src="/assets/Float socials cut.mov" type="video/mp4">
+</video>
+
 Jo is an artist working with installation, composition and Improvisation. Sometimes music happens.
 
 ### Seraphim Blush
