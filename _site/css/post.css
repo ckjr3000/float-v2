@@ -19,3 +19,19 @@
         margin: 30px 30px;
     }
 }
+
+img {
+    max-width: 30vw;
+}
+
+@media only screen and (max-width: 960px){
+    img {
+        max-width: 40vw;
+    }
+}
+
+@media only screen and (max-width: 540px){
+    img {
+        max-width: 60vw;
+    }
+}
