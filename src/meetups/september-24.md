@@ -2,7 +2,7 @@
 title: Friday 6th September 2024
 subtitle: CONCERT - Jo Christman & Seraphim Blush
 venue: Arcade Coffee
-archived: false
+archived: true
 date: 2024-09-07
 ---
 
