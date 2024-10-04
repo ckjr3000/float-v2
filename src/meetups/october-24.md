@@ -1,17 +1,19 @@
 ---
 title: 5th October 2024
-subtitle: Meetup - Tech demonstration with Seraphim Blush
-venue: Private Address (Get in touch for details)
+subtitle: Meetup - Discussion on DIY Web Design Aesthetics
+venue: Head of Steam
 archived: false
 date: 2024-09-23
 ---
 
 17.30 – 19.30 
 
-October's meetup will include a demo from musician Theia Greenaway (seraphim blush). She will talk us through her live setup, explaining the interaction of software, recording & various devices to create textural sonic collages.
+October's meetup will include an introduction on the topic of 'The Aesthetics of the Hand Made Web' with artist and web devloper [Charlotte Roe](https://charlotteroe.space/).
 
 ## Where?
 
-Private adress in Huddersfield Town Centre.
+Head of Steam pub in Huddersfield train station.
 
-Message us on [Instagram](https://www.instagram.com/float_hudd/) or email hello@charlotteroe.space to get details of where to meet.
+St George's Square,
+Huddersfield
+HD1 1JB
