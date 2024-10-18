@@ -2,7 +2,7 @@
 title: 5th October 2024
 subtitle: Meetup - Discussion on DIY Web Design Aesthetics
 venue: Head of Steam
-archived: false
+archived: true
 date: 2024-09-23
 ---
 
