@@ -1,5 +1,5 @@
 ---
-title: 5th October 2024
+title: 5th November 2024
 subtitle: Meetup - Tech demonstration with Mia Windsor
 venue: TEN Queen Street
 archived: false
