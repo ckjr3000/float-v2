@@ -2,6 +2,18 @@
 title: Archive
 layout: layout.html
 ---
+<h2 id="archive-heading">Past Concerts</h2>
+<div class="grid-container">
+    {% assign archivedConcerts = collections.concert | where: "data.archived", true | reverse %}
+    {% for concert in archivedConcerts sort(attribute='concert.data.date') %}
+        <div class="grid-child">
+            <h3>{{ concert.data.title }}</h3>
+            <p><b>Venue:</b> {{ concert.data.venue }}</p>
+            <p>{{ concert.data.subtitle }}</p>
+            <a class="read-more-btn" href="{{ concert.url }}">Read more</a>
+        </div>
+    {% endfor %}
+</div>
 
 <h2 id="archive-heading">Past Meetups</h2>
 <div class="grid-container">

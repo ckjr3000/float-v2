@@ -32,6 +32,16 @@ layout: "layout.html"
         {% endfor %}        
     </div>
     <div class="grid-child">
+        <h2>Next Concert</h2>
+        {% assign reversedConcerts = collections.concert | reverse %}
+        {% for concert in reversedConcerts limit:1 %}
+            <h3>{{ concert.data.title }}</h3>
+            <p><b>Venue:</b> {{ concert.data.venue }}</p>
+            <p>{{ concert.data.subtitle }}</p>
+            <a class="read-more-btn" href="{{ concert.url }}">Read more</a>
+        {% endfor %}  
+    </div>
+    <div class="grid-child">
         <h2>Get Involved:</h2>
         <h3>Want to present at a meet up?</h3>
         <p>Have a project you want to share? A technical problem you could use some help with? Or an issue you'd really like to discuss?</p>
