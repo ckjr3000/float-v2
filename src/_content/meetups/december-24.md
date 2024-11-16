@@ -1,7 +1,7 @@
 ---
 title: 5th December 2024
-subtitle: Meetup
-venue: Repair Session & Year Wrap Up 
+subtitle: Repair Session & Year Wrap Up 
+venue: Huddersfield Fire Station
 archived: false
 date: 2024-11-11
 ---
