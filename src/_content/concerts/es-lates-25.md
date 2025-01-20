@@ -10,20 +10,13 @@ We are excited to announce a two-concert series produced by < float /> in collab
 
 ## FRIDAY 21st
 
-![Gig poster containing the event details listed below, ](/assets/es-1.jpg)
-
 ### The Silver Field
-
-![The Silver Field performing](/assets/sophie-cooper.jpg)
-_Photo credit: Rob West_
 
 The Silver Field is a sound world of Coral Rose Kindred-Boothby. Voice, tapes, bass, samples, synthesis, strings, reeds, drums, small sounds, big sounds, sunlight, moonlight, a lot of water. Using her modular synthesiser and other self-built electronic instruments, she weaves together song-soundscapes, creating a rich and dream-like tapestry of sound that draws from folk music tradition, experimental electronics and psychedelia.
 
 https://thesilverfield.bandcamp.com/
 
 ### Sophie Cooper
-
-![Sophie Cooper stood in a lake using field recording equipment.](/assets/sophie-cooper.jpg)
 
 Sophie Cooper is a sound artist who Huddersfield Contemporary Music Festival (hcmf//) refer to as “A crucial member of Yorkshire’s far-reaching experimental music scene”. Sophie’s practice pivots around new presentations of acoustic instrumentation (primarily the trombone) with electronics, challenging conventions around composition, text placement and performance.
 
@@ -35,11 +28,7 @@ Doors 9pm
 
 ## Saturday 22nd
 
-![Gig poster containing the event details listed below, ](/assets/es-2.jpg)
-
 ### MKR
-
-![Maryanne Royle interacting with a long strip of analogie audio tape](/assets/mkr.jpg)
 
 Field recordings, archival sounds, giant tape loops and tensioned sighing harmonies by Maryanne Royle.
 
@@ -58,7 +47,7 @@ Doors 9pm
 £8 advance / £10 on the door
 OR buy a ticket bundle for both nights for £14 (advance only!)
 
-![All tickets ↗](https://www.eventbrite.com/o/float-huddersfield-105850808021)
+![All tickets ↗](https://www.eventbrite.com/o/float-huddersfield-105850808021/)
 
 ## Where?
 
