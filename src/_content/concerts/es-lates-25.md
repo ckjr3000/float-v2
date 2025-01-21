@@ -47,7 +47,7 @@ Doors 9pm
 £8 advance / £10 on the door
 OR buy a ticket bundle for both nights for £14 (advance only!)
 
-![All tickets ↗](https://www.eventbrite.com/o/float-huddersfield-105850808021/)
+<a href="https://www.eventbrite.com/o/float-huddersfield-105850808021/" target="_blank">All tickets ↗</a>
 
 ## Where?
 
