@@ -1,23 +1,22 @@
 /* Import Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
 /* Colour Palette */
 :root {
-    --black: #2D252C;
-    --white: #Fcfcfc;
-    --green: #0FD27A;
-    --pink: #cd8987;
-    --blue: #86c6db;
-  }
-  
-* {
-    font-family: 'Roboto Mono', serif;
+  --black: #2d252c;
+  --white: #fcfcfc;
+  --green: #0fd27a;
+  --pink: #cd8987;
+  --blue: #86c6db;
 }
 
+* {
+  font-family: "Roboto Mono", serif;
+}
 
 html {
-    position: relative;
-    min-height: 100%;
+  position: relative;
+  min-height: 100%;
 }
 
 body {
@@ -28,197 +27,200 @@ body {
 }
 
 h1 {
-    font-size: 35px;
-    text-align: center;
+  font-size: 35px;
+  text-align: center;
 }
 
 h2 {
-    font-size: 25px;
+  font-size: 25px;
 }
 
-h1, h2, h3, h4 {
-    color: var(--green);
+h1,
+h2,
+h3,
+h4 {
+  color: var(--green);
 }
 
 p {
-    color: var(--white);
+  color: var(--white);
 }
 
 a {
-    color: var(--blue);
+  color: var(--blue);
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
-@media only screen and (max-width: 537px){
-    h1 {
-        font-size: 25px;
-    }
+img {
+  margin: auto;
 }
 
-@media only screen and (max-width: 410px){
-
-    h2 {
-        font-size: 20px;
-    }
-
-    p {
-        font-size: 13px;
-    }
+@media only screen and (max-width: 537px) {
+  h1 {
+    font-size: 25px;
+  }
 }
 
-@media only screen and (max-width: 391px){
-    h1 {
-        font-size: 20px;
-    }
+@media only screen and (max-width: 410px) {
+  h2 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 13px;
+  }
 }
 
-@media only screen and (max-width: 307px){
-    h1 {
-        font-size: 15px;
-    }
-
-    h2 {
-        font-size: 13px;
-    }
+@media only screen and (max-width: 391px) {
+  h1 {
+    font-size: 20px;
+  }
 }
 
-@media only screen and (max-width: 168px){
-    h2 {
-        font-size: 15px;
-    }
+@media only screen and (max-width: 307px) {
+  h1 {
+    font-size: 15px;
+  }
 
-    p {
-        font-size: 12px;
-    }
+  h2 {
+    font-size: 13px;
+  }
 }
 
+@media only screen and (max-width: 168px) {
+  h2 {
+    font-size: 15px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+}
 
 .grid-container {
-    display: grid; 
-    grid-template-columns: 1fr 1fr; 
-    gap: 20px; 
-    margin: 30px 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 30px 300px;
 }
 
 .grid-child {
-    border: 1px solid var(--white);
-    border-radius: 20px;
-    padding: 20px 30px 30px 30px;
+  border: 1px solid var(--white);
+  border-radius: 20px;
+  padding: 20px 30px 30px 30px;
 }
 
 .grid-child > * {
-    margin: 13px;
+  margin: 13px;
 }
 
 .grid-child h2 {
-    text-align: center;
-    color: var(--white);
+  text-align: center;
+  color: var(--white);
 }
 
 .read-more-btn {
-    color: var(--white);
-    text-decoration: none;
-    border: 1px solid var(--white);
-    border-radius: 4px;
-    padding: 5px 10px;
+  color: var(--white);
+  text-decoration: none;
+  border: 1px solid var(--white);
+  border-radius: 4px;
+  padding: 5px 10px;
 }
 
 .read-more-btn:hover {
-    color: var(--black);
-    background-color: var(--white);
+  color: var(--black);
+  background-color: var(--white);
 }
 
-@media only screen and (max-width: 1544px){
-    .grid-child {
-        padding: 10px 15px 15px 15px;
-    }
+@media only screen and (max-width: 1544px) {
+  .grid-child {
+    padding: 10px 15px 15px 15px;
+  }
 }
 
-@media only screen and (max-width: 1544px){
-    .grid-container {
-        grid-template-columns: 1fr;
-    }
+@media only screen and (max-width: 1544px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
 
-    .grid-child {
-        text-align: center;
-    }
-
+  .grid-child {
+    text-align: center;
+  }
 }
 
 @media only screen and (max-width: 1050px) {
-    .grid-container {
-        margin: 0 200px;
-    }
+  .grid-container {
+    margin: 0 200px;
+  }
 }
 
 @media only screen and (max-width: 822px) {
-    .grid-container {
-        margin: 0 100px;
-    }
+  .grid-container {
+    margin: 0 100px;
+  }
 }
 
 @media only screen and (max-width: 822px) {
-    .grid-container {
-        margin: 0 30px;
-    }
+  .grid-container {
+    margin: 0 30px;
+  }
 }
 
 @media only screen and (max-width: 300px) {
-    .grid-container {
-        margin: 0 10px;
-    }
+  .grid-container {
+    margin: 0 10px;
+  }
 }
 
 @media only screen and (max-width: 260px) {
-    .grid-container {
-        margin: 5px;
-    }
+  .grid-container {
+    margin: 5px;
+  }
 
-    .grid-child > * {
-        padding: 0px;
-    }
+  .grid-child > * {
+    padding: 0px;
+  }
 
-    
-    .grid-child > .read-more-btn {
-        padding: 5px;
-    }
+  .grid-child > .read-more-btn {
+    padding: 5px;
+  }
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 
 @media only screen and (max-width: 669px) {
-    footer > p {
-        font-size: 13px;
-    }
+  footer > p {
+    font-size: 13px;
+  }
 }
 
 /* Gives footer more space instead of making it smaller */
 @media only screen and (max-width: 669px) {
-    body {
-        padding-bottom: calc(100vh - 92vh);
-      }
+  body {
+    padding-bottom: calc(100vh - 92vh);
+  }
 
-      footer > p {
-        padding: 0 10px;
-    }
+  footer > p {
+    padding: 0 10px;
+  }
 }
 
 @media only screen and (max-width: 203px) {
-    body {
-        padding-bottom: calc(100vh - 90vh);
-      }
+  body {
+    padding-bottom: calc(100vh - 90vh);
+  }
 }
 
 @media only screen and (max-width: 150px) {
-    body {
-        padding-bottom: calc(100vh - 85vh);
-      }
+  body {
+    padding-bottom: calc(100vh - 85vh);
+  }
 }

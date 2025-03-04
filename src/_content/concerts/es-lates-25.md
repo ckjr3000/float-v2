@@ -2,7 +2,7 @@
 title: Friday 21st & Saturday 22nd February 2025
 subtitle: Electric Spring Lates | The Silver Field / Sophie Cooper / MKR / Bláthanna
 venue: The County
-archived: false
+archived: true
 date: 2025-01-20
 ---
 

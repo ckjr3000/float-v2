@@ -2,7 +2,7 @@
 title: Saturday 14th December 2024
 subtitle: CONCERT - Layla Klimova & Mia Windsor
 venue: Arcade Coffee
-archived: false
+archived: true
 date: 2024-11-12
 ---
 
@@ -32,4 +32,4 @@ Mia Windsor is an experimental musician currently interested creating complex sy
 
 ## Where?
 
-Arcade Coffee, 9, Byram Arcade, Huddersfield HD1 1ND 
+Arcade Coffee, 9, Byram Arcade, Huddersfield HD1 1ND
