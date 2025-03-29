@@ -1,8 +1,8 @@
 ---
-title: Wednesday 5th March 2025
+title: Saturday 5th April 2025
 subtitle: Sound Engineer AMA
 venue: The County
-archived: true
+archived: false
 date: 2025-03-03
 ---
 
