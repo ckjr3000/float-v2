@@ -7,7 +7,7 @@ date: 2025-04-16
 ---
 
 
-![Gig poster containing the event details listed below, a photo of a desolate industrial landscape set against hills and fields. Edited to have a red sky and a grainy texture overall.](/assets/may-24-web.jpg)
+![Gig poster containing the event details listed below, a photo of a desolate industrial landscape set against hills and fields. Edited to have a red sky and a grainy texture overall.](/assets/may-24-web.webp)
 
 Ella Kay // Mayacelium // Ria Bagley
 
