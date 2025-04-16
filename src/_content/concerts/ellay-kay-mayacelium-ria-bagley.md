@@ -69,3 +69,5 @@ You can just explain on arrival if you require this. Or you can send an email in
 If you have any questions regarding accessibility for this or any of our events you can email us at floathudd@gmail.com.
 
 We are always open to hearing suggestions on how we can make our activities more accessible.
+
+Charlotte Roe is supported by the Early Career Promoter Fund which is managed by PRS Foundation and funded by Arts Council England using Supporting Grassroots Music funding from DCMS.
