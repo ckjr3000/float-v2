@@ -3,7 +3,7 @@ title: Monday 5th May 2025
 subtitle: Acorex presentation by Elowyn Fearne
 venue: The County
 archived: false
-date: 2025-24-04
+date: 2025-04-26
 ---
 
 17.30 – 19.30
