@@ -13,6 +13,6 @@ May's meetup will include a presentation by programmer Elowyn Fearne - a deep di
 ## Where?
 
 The County Beerhouse,
-4 Princess St
+4 Princess Street
 Huddersfield
 HD1 2TT
