@@ -1,6 +1,6 @@
 ---
 title: Saturday 5th July 2025
-subtitle: Discussion: Data & Digital Collections
+subtitle: Discussion - Data & Digital Collections
 venue: The Sportsman
 archived: false
 date: 2025-06-03
