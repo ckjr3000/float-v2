@@ -1,7 +1,7 @@
 ---
 title: Tuesday 5th August 2025
-subtitle: Sound Engineer AMA
-venue: HODR Engine demo with Freya Shaw
+subtitle: HODR Engine demo with Freya Shaw
+venue: The County
 archived: true
 date: 2025-08-04
 ---
