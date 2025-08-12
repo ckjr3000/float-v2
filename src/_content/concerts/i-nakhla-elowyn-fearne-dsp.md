@@ -7,10 +7,11 @@ date: 2025-08-12
 ---
 
 
-![Gig poster containing the event details listed below, a photo of a desolate industrial landscape set against hills and fields. Edited to have a red sky and a grainy texture overall.](/assets/may-24-web.webp)
+![Gig poster containing the event details listed below, the background is an abstract painted texture made up of reds, yellows and blacks, the text of the poster is also done in this hand painted brush stroke style in white.](/assets/float-6th-september.webp)
 
 I. Nakhla // Elowyn Fearne // Degenerate Signal Processing
-experimental electronics / field recordings / soundscapes / biodata sonification
+
+experimental electronics
 
 Doors 7pm
 
@@ -21,6 +22,7 @@ Doors 7pm
 I. Nakhla is an artist, musician and educator. Through sound, music, performance and installation, they build sonic worlds. Listening to environment – and how it remembers – Nakhla makes mischief with categories, rhythms and keys.
 
 <a href="https://inakhla.com/" target="_blank">inakhla.com</a>
+
 <a href="https://www.instagram.com/nakhla.iz/" target="_blank">instagram.com/nakhla.iz</a>
 
 ### Elowyn Fearne
@@ -30,6 +32,7 @@ I. Nakhla is an artist, musician and educator. Through sound, music, performance
 Elowyn Fearne is a an audio programmer, composer, and researcher - having recently built ACorEx, a corpus-based concatenative synthesis instrument. Her compositions are a variety of electronic explorations with a stylistic interest in building rhythmic soundscapes of strange samples and evolving textures.
 
 <a href="https://fearn-e.bandcamp.com/album/incoherent-entropy" target="_blank">'Incoherent Entropy' on Bandcamp</a>
+
 <a href="https://acorex.fearne.net/" target="_blank">acorex.fearne.net</a>
 
 ### Degenerate Signal Processing
@@ -42,7 +45,7 @@ Degenerate Signal Processing is the duo offering from machine fingering idiots J
 
 £8 advance / £10 on the door
 
-<a href="https://www.eventbrite.com/e/float-presents-ella-kay-mayacelium-ria-bagley-tickets-1323789673549" target="_blank">Buy tickets ↗</a>
+<a href="https://www.eventbrite.com/e/float-presents-i-nakhla-elowyn-fearne-degenerate-signal-processing-tickets-1578704982099" target="_blank">Buy tickets ↗</a>
 
 ## Where?
 
