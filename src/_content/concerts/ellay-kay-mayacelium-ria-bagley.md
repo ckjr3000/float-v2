@@ -2,7 +2,7 @@
 title: Saturday 24th May 2025
 subtitle: CONCERT - Ella Kay / Mayacelium / Ria Bagley
 venue: The County
-archived: false
+archived: true
 date: 2025-04-16
 ---
 
