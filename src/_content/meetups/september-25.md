@@ -3,7 +3,7 @@ title: Friday 5th September 2025
 subtitle: Social & discussion with I. Nakhla
 venue: The County
 archived: false
-date: 2025-08-0429
+date: 2025-08-29
 ---
 
 17.30 – 19.30
