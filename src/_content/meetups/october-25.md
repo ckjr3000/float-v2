@@ -3,7 +3,7 @@ title: Sunday 5th October 2025
 subtitle: Presentation by Millie Fisher
 venue: The County
 archived: false
-date: 2025-01-01
+date: 2025-10-01
 ---
 
 17.30 – 19.30
