@@ -1,6 +1,6 @@
 ---
-title: Friday 5th September 2025
-subtitle: Social & discussion with I. Nakhla
+title: Sunday 5th October 2025
+subtitle: Presentation by Millie Fisher
 venue: The County
 archived: false
 date: 2025-01-01
