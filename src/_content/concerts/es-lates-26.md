@@ -14,7 +14,7 @@ We are once again collaborating with [Electric Spring Festival ↗](https://elec
 
 <a href="https://www.ticketsource.co.uk/float" target="_blank">Tickets ↗</a>
 
-## FRIDAY 20th
+## Friday 20th
 
 ![Gig poster containing the event details listed below, a scanned collage made from parts of an electronics manual, with decorative elements made with overlapping glitchy text.](/assets/esf-lates-gig1.webp)
 

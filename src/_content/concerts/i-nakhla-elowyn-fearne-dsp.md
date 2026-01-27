@@ -2,7 +2,7 @@
 title: Saturday 6th September 2025
 subtitle: CONCERT - I. Nakhla / Elowyn Fearne / Degenerate Signal Processing
 venue: The County
-archived: false
+archived: true
 date: 2025-08-12
 ---
 
