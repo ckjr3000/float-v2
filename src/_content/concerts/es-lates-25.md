@@ -34,7 +34,7 @@ Field recordings, archival sounds, giant tape loops and tensioned sighing harmon
 
 https://www.maryanneroyle.co.uk/
 
-Bláthanna
+### Bláthanna
 
 Frippertronics and ambient soundscapes using guitar processing and synthesis. Sound-on-sound looping, exploring live improvisation and sound design on guitar, inspired by Godspeed You! Black Emperor, Robert Fripp and Chords of Orion. "Like Brian Eno meets John Carpenter"
 
