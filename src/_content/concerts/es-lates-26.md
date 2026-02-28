@@ -2,7 +2,7 @@
 title: Friday 20th & Saturday 21st February 2026
 subtitle: ESF Lates | Ryoko Akama & Khabat Abas / W.H.Y / Shit Creek / Fux Interior / Leibniz / Fashion Tips / Wire Mothers
 venue: Hive Cooperative Cafe
-archived: false
+archived: true
 date: 2026-01-27
 ---
 

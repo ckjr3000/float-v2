@@ -2,7 +2,7 @@
 title: Thursday 5th February 2026
 subtitle: Discussion: Float is becoming a co-op wow what does this mean what is to become of us will we all be rich omg
 venue: The County
-archived: false
+archived: true
 date: 2026-01-27
 ---
 
