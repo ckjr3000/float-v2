@@ -2,7 +2,7 @@
 title: Thursday 5th March 2026
 subtitle: Group Crit / Show & Tell
 venue: The County
-archived: false
+archived: true
 date: 2026-02-28
 ---
 
