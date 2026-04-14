@@ -7,7 +7,7 @@ date: 2026-04-09
 ---
 
 
-![Gig poster containing the event details listed below, text appears to be doodled on a piece of plywood with paint splashed on it, leant against a brick wall on a concrete path with weeds coming through the cracks.](/assets/6th-may-web.webp)
+![Gig poster containing the event details listed below, text appears to be doodled on a piece of plywood with paint splashed on it, leant against a brick wall on a concrete path with weeds coming through the cracks.](/assets/6th-may.webp)
 
 Doors 7pm
 
