@@ -6,7 +6,7 @@ archived: false
 date: 2026-07-01
 ---
 
-![Gig poster containing the event details listed below written on a piece of acetate and held up against a blue sky.](/assets/flock-party-1.webp)
+![Gig poster containing the event details listed below written on a piece of acetate and held up against a blue sky.](/assets/flock-party-2.webp)
 
 Pay as you feel, we will take donations to cover artist travel at the end.
 
