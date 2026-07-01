@@ -3,7 +3,7 @@ title: Thursday 18th June 2026
 subtitle: FLOCK PARTY - Sports Godzuki / Charlotte Roe / Cyfarwydd / Layla Klimova 
 venue: Secret location
 archived: true
-date: 26-06-29
+date: 2026-06-29
 ---
 
 ![Gig poster containing the event details listed below written on a piece of acetate and held up against a blue sky.](/assets/flock_party.webp)
